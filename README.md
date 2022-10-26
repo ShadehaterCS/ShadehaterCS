@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadehaterCS - Ilias Kordoulas
+- 👋 Hi, I’m @kordoulakis - Ilias Kordoulas
 - 👀 I’m interested in web development, specifically Angular, Nuxt and .NET Core 
 - 🌱 I’m currently learning to develop apis using Go and gRPC 
 
